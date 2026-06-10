@@ -14,7 +14,7 @@ a {
 .product-card {
     background-color: white;
     padding: 20px;
-    margin: 20px 0;
+    margin: 20px auto;
     border-radius: 12px;
     border: 2px solid #E5E5E5;
     width: 300px;
